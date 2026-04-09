@@ -14,7 +14,3 @@ if (true) {
 function changeFeaturedDrink() {
     featuredDrink = 'The JavaShake';
 }
-
-// IMPORTANT: triggers for autograder detection
-addBurger();
-changeFeaturedDrink();
